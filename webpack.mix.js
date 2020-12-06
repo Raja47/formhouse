@@ -1,5 +1,5 @@
 const mix = require('laravel-mix');
-
+let productionSourceMaps = false;
 /*
  |--------------------------------------------------------------------------
  | Mix Asset Management
